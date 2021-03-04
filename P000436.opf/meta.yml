@@ -1,15 +1,16 @@
-id: opecha:P000436
+id: P000436
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24862
   title: དམངས་ཁྲོད་རྩོམ་རིག་རྣམ་བཤད།
-  volume:
+  author: ''
+  volumes:
     ae61eb003b204b1e954b7e283cb41f60:
       image_group_id: I1KG24864
       title: Volume 1 of dmangs khrod rtsom rig rnam bshad/
       volume_number: 1
       total_pages: 328
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དམངས་ཁྲོད་རྩོམ་རིག་རྣམ་བཤད།
   author: ''
